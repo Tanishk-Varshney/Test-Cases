@@ -1,0 +1,16 @@
+POSITIVE Test Cases-
+
+1. Verify that user is able to hold pen Comfortably.
+2. Verify that the pen is Writing Smoothly or not.
+3. Verify that pen is not making any type of Sound while Writing.
+4. Verify that the Ink Flow of the pen is Smooth or Not. There should not be any Break in INK Flow.
+5. Verify that the Quality of the material of Pen is Good or Bad.
+6. Verify that the design on Pen or the Branding of the Pen is not Removed Easily.
+7. Verify that the line Drawn by the Pen is according to the Mentioned Specifications.(0.5,0.7 etc.)
+8. Verify that the Ink Colour of the Pen should be Consistent from Start to End.
+9. Verify that the Pen is able to write on different type of Paper(Smooth, Glossy, Rough, Thick, Thin).
+10. Verify that the Ink of Pen is Waterproof or Not.
+11. Verify that the Ink of Pen is Dried Quickly on Paper or Not.
+12. Verify that other Refills Fit the Pen or Not.
+13. Verify that the Pen should not have any Sharp edges and Corners.
+14. Verify that the Body or Pen and Ink is made up of non-Toxic Material or not.

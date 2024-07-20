@@ -1,0 +1,18 @@
+Test Cases on PERFORMANCE of Pen-
+
+->OUT OF SCOPE Test Cases-
+
+1. Verify that Pen is Working under High Pressure or Not.
+2. Verify that Pen is Working under High Temperature or Not.
+3. Verify that Pen is Working under Low Temperature or Not.
+4. Verify that Pen is Workong  under Low Pressure or Not.
+5. Verify that Pen is Working where Gravity is Zero.
+
+
+
+-> IN SCOPE Test Cases-
+
+1. Verify that Pen is able to Write at High Speed.
+2. Verify that Pen nib is not Broken at High Speed Writing.
+3. Verify that Pen Ink is Consistent at Writing at High Speed.
+4. Verify that How Much Amount od Text or Drawing can be done with the Full Refill of the Pen.

@@ -1,0 +1,11 @@
+Negative Test Cases of Pen-
+
+1. Verify that Pen is Working normally or Not after putting the Pen In Water for Sometime.
+
+2. Verify that Pen is Working normally or Not after dropping the Pen from some Height.
+
+3. Verify that Ink Spelled or not after dropping the Pen from some Height.
+
+4. Verify that Pen is able to write when left open for some time without Pen Cap.
+
+5. Verify that nib of Pen is able to withstand the Pressure while Writing.

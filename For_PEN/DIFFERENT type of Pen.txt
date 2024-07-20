@@ -1,0 +1,41 @@
+Test Cases on DIFFERENT type of Pen-
+
+-> BALL Pen
+-> TICK-TICK Pen
+-> GEL Pen
+-> INK Pen or FOUNTAIN Pen
+-> MULTI REFILL Pen
+
+=> Ball Pen-
+	1. Verify the Tightness of the Pen Cap, it should not get Removed Easily. 
+	2. Verify that the Ink of Pen should not come out while Holdingit in Pocket.
+
+
+=> Tick-Tick Pen-
+	1. Verify the Functionality of rhe Pen Button.
+	2. Verify the Refill should come out on PRessing the Button and goes back after Pressing the Button.
+	3. Verify that the Pen Button is not Broken when Pressed with more Force.
+	4. Verify that the Pen Button should not Struk after long use of the Pen.
+	5. Verify the clip of Pen, it should Hold the Pen tigthly while in Pocket.
+	6. Verify that the user is able to change the refill of the Pen easily or Not.
+
+
+=> Gel Pen-
+	1. Verify that the Ink should not get Overflowed.
+	2. Verify that thw Ink should not make Impression on other side of the Page.
+	3. Verify that the Ink id Dried fast on Paper.
+	4. Verify that the Cap of the Pen is easy to open and close.
+
+
+=> Ink Pen or Fountain Pen-
+	1. Verify the Ink Flow of the nib.
+	2. Verify that there should be no Ink Leakage through parts of Pen.
+	3. Verify that while refilling the Ink, the sac should get full.
+	4. Verify that the Ink should not Leak by Holding the Pen Horizontally , Upside-down Position.
+
+
+=> Multi Refill Pen-
+	1. Verify all the Buttons of different colour Inks.
+	2. Verify that the Button and colour of Ink is matched correctly.
+	3. Verify that user is able to change the refill Easily or not.
+	4. VErify that user is able to hold the pen easily, it should not be Bulky.
