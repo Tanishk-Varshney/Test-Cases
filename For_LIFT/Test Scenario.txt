@@ -1,0 +1,11 @@
+ LIFT / ELEVATOR
+
+-> TEST CASES on Capacity of Lift
+
+-> TEST CASES on Usablity of Lift
+
+-> TEST CASES for Comfort in Lift
+
+-> TEST CASES for Functionalisty of Lift
+
+-> Negative TEST CASES for Lift

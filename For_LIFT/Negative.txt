@@ -1,0 +1,9 @@
+Negative Test Cases for Lift-
+
+1. Verify the Behavior of Lift When the Capacity of Lift EXCEEDS.
+
+2. Verify the Behavior of Lift when there is Smoke or Fire Inside the Lift.
+
+3. Verify the Behavior by Pressing open Button while Lift is Moving.
+
+4. Verify the Behavior by Pressing stop Button before Reaching the Specific Floor.

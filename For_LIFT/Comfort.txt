@@ -1,0 +1,9 @@
+Test Cases for Comfort in Lift-
+
+1. Verify that Emergency Button and Contact details should be Present in Lift.
+
+2. Verify the Performance of Lift, the time taken to go a Particular Floor.
+
+3. Verify that fan is Present in the Lift or Not.
+
+4. Verify that Light is Present in Lift or Not.

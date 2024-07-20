@@ -1,0 +1,30 @@
+Test Cases for Functionality of Lift-
+
+1. Verify that Lift moves to Particular floor when the Floor Button is Pressed.
+
+2. Verify that Lift comes to Floor is up/down Button are Pressed at a Particular Floor. **
+
+3. Verify that the Door should not be Opened , if Open Door Button id Pressed in Between two FLoors.
+
+4. Verify the Behavior of Lift in case of POWER Failure, 
+      -> Lift should not free fall.
+ 		or
+	 -> should not STOP in between two Floors.
+
+5. Verify that lift Door closes or not 
+	if an Object is Placed in between the Door,
+	it should not Close.
+
+6. Verify the Time for which the Door remains Open at Floor.
+
+7. Verify that Door  should not Open while the Lift is in Motion.
+
+8. Verify that Backup Mechanism should be Present in case of POWER Loss.
+
+9. Verify that in case Multiple Floor number Button is Clicked,
+	Lift should Stop at each Floor.
+
+10. Verify that in case of Capacity Limit is Reached uesrs are Prompted with Warning ALERT.
+
+11. Verify that inside Lift user are prompted with Current Floor and
+	Direction information the Lift is Moving towards.

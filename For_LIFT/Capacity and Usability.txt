@@ -1,0 +1,25 @@
+Test Cases on Capacity of Lift-
+
+1. Verify the Maximum Passenger Capacity of Lift.
+
+2. Verify the MAximum Weight Capacity of Lift.
+
+
+
+Test Cases on Usability of Lift-
+
+1. Verify the Height, Width and Length of the Lift.
+
+2. Verify the type of Material used in Lift interior and Exterior.
+
+3. Verify the type of the Door of the Lift.
+
+4. Verify that Buttons are Present according to the Number of Floors in Building.
+
+5. Verify that Buttons to Open and Close Lift Door should be Present.
+
+6. Verify that the Buttons should be Self-Explanatory.
+
+7. Verify that Blind person should be able to use the buttons.
+
+8. Verify that the Controls are guided by a Voice Message.
